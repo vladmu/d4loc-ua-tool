@@ -1,0 +1,15 @@
+# Підказки наголосу за англійським оригіналом репліки: українська_форма_з_´ ~ регулярний_вираз_англійською
+# Правило спрацьовує, якщо в оригіналі є збіг і ЖОДНЕ з протилежних правил цього слова не спрацювало. Форма пишеться з «´» після наголошеної голосної.
+брати´ ~ brother|brethren|sibling
+бра´ти ~ \btak(e|ing|es)\b|\bgrab|\bdraw|\bfetch|\bget\b|\bpart\b
+замо´к ~ \block\b|\bkey\b|\bpadlock
+за´мок ~ castle|fortress|stronghold|\bkeep\b
+потя´г ~ \btrain\b|locomotive|\bcart\b|minecart|railway
+по´тяг ~ urge|desire|yearning|craving|\bpull\b
+потя´гу ~ \btrain\b|locomotive|\bcart\b|minecart|railway
+по´тягу ~ urge|desire|yearning|craving
+потя´ги ~ \btrains\b|\bcarts\b|minecarts
+вина´ ~ guilt|\bfault\b|\bblame\b|\bsin\b
+ви´на ~ \bwine\b
+прикла´д ~ \brifle\b|\bstock\b
+при´клад ~ example|\bexamples?\b|instance

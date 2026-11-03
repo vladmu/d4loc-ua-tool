@@ -1,0 +1,13 @@
+# Exact versions of the speech synthesis environment (Python 3.12.10, Windows, NVIDIA GPU; CUDA is needed for onnxruntime-gpu).
+# Key packages only; the rest are pulled in as dependencies.
+holos-tts-onnx==0.4
+onnxruntime-gpu==1.31.1
+huggingface_hub==2.4.0
+numpy==2.5.4
+scipy==1.18.1
+soundfile==0.14.0
+stanza==1.15.0
+marisa-trie==1.4.1
+torch==2.15.0
+ukrainian-word-stress==2.1.0
+ipa-uk @ git+https://github.com/patriotyk/ipa-uk.git@3faf05ec50fd4880965b6c76f8e479a4f82117f5

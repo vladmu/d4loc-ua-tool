@@ -1,0 +1,74 @@
+# Глосарій Dungeons 4: English = Українська. Рядки з # ігноруються.
+# ЧЕРНЕТКА: переглянь і виправ. Це підставляється в системний промпт кожного запиту, тримай до ~50 рядків.
+
+# Імена персонажів (транслітерація)
+Thalya = Талія
+Tristan = Трістан
+Tanos = Танос
+Gorgu = Горгу
+Brynnhild = Бріннгільд
+
+# Основні поняття
+Hero = Герой
+Heroes = Герої
+Creature = Істота
+Creatures = Істоти
+Horde Creatures = Істоти орди
+Little Snot = Шмаркач
+Little Snots = Шмаркачі
+Dungeon = Підземелля
+Dungeonheart = Серце Підземелля
+Overworld = Верхній світ
+Evilness = Зловісність
+Absolute Evil = Абсолютне Зло
+Evil = Зло
+Good = Добро
+Light = Світло
+Council = Рада
+The Council = Рада
+Undead = Нежить
+Demons = Демони
+Dark Elf = темний ельф
+Dark Elves = темні ельфи
+Dwarves = гноми
+Goddess = Богиня
+
+# Ресурси та характеристики
+Mana = Мана
+Gold = Золото
+Stone = Камінь
+Beer = Пиво
+Damage = Шкода
+Hit Points = Очки здоров'я
+Armor = Броня
+Range = Дальність
+Combat = Бій
+
+# Інтерфейс
+Spell = Закляття
+Spells = Закляття
+Trap = Пастка
+Traps = Пастки
+Room = Кімната
+Rooms = Кімнати
+Portal = Портал
+Research = Дослідження
+Fortress = Фортеця
+Vault = Сховище
+
+# Finitude: єдиний переклад
+Finitude = Скінченність
+Stone of Finitude = Камінь Скінченності
+Gauntlet of Finitude = Рукавичка Скінченності
+Dungeonlord = Володар Підземелля
+Gobbler = Гоглер
+Brynni the Kid = Бріні Кід
+Blight = Скверна
+Burial Chamber = Поховальна Камера
+Sacrificial Pit = Жертовна Яма
+Minion = Посіпака
+Bone Lord = Володар Кісток
+Arcane Tear = Арканна Сльоза
+Thrasher = Молотарка
+Hellwoods = Пекельні ліси
+Yaina Overproud = Яйна Надгорда

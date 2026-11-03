@@ -1,0 +1,64 @@
+{"name": "name_mage_v3", "set": "Він, Народжений Туманом"}
+{"name": "stats_hordecreaturessleptinhideout", "set": "Спало у схованці"}
+{"name": "hero_mage_flav", "set": "«Магіє, роби свою справу!»"}
+{"name": "hero_mage_gold_flav", "set": "«Магіє, роби свою справу!»"}
+{"name": "res_spells_simple_flav", "set": "«Магіє, роби свою справу!»"}
+{"name": "dom_western01flee_aoe_dynamite_cooldown", "set": "Динамітна праща: перезарядка"}
+{"name": "ach_western02rescue_completed_obta", "set": "Ти завершив «Шмаркачі звільнені»."}
+{"name": "dom_main02horde_traps_hamster", "set": "Безкоштовне Колесо Смерті для Хом'яка"}
+{"name": "name_fighter_v8", "set": "Фортвінд"}
+{"name": "name_goblin_v37", "set": "Бібер"}
+{"name": "name_pyro_v45", "set": "Дараорд Тупа Броня"}
+{"name": "name_westernbrewmaster_v24", "set": "Дарін Хмелекувач"}
+{"name": "name_westerngatling_v15", "set": "Трайн Бочкомолот"}
+{"name": "spell_nexus_improve_units_flav", "set": "«За Світло!»"}
+{"name": "unit_naga_champion_info_1", "set": "Дальній боєць (магічна шкода)"}
+{"name": "unit_naga_info_1", "set": "Дальній боєць (магічна шкода)"}
+{"name": "unit_skill_orc_champ_taunt_capt", "set": "Глузування"}
+{"name": "goal_main04undead_cryptas_findall", "set": "Захопи давні поховальні склепи"}
+{"name": "name_westernsniper_v38", "set": "Скірнір Крадькома"}
+{"name": "building_nexus_catcomplex_capt", "set": "Просунута споруда"}
+{"name": "dom_western03bounty_bounty", "set": "Винагорода за Талію"}
+{"name": "name_westerngatling_v25", "set": "Орік Залізна Шестерня"}
+{"name": "unit_gnome_info_2", "set": "Шкода по області"}
+{"name": "unit_skill_necromancer_mist_capt", "set": "Туман скверни"}
+{"name": "name_westerngatling_v48", "set": "Дран Важке Колесо"}
+{"name": "ui_range_attack_capt", "set": "Дальня атака"}
+{"name": "unit_skill_default_attack_ranged_capt", "set": "Дальня атака"}
+{"name": "building_nexus_tower_arrow_capt", "set": "Стрілецька вежа"}
+{"name": "res_nexus_tower_2_desc", "set": "Відкриває будівлю «Стрілецька вежа»"}
+{"name": "hero_tower_crossbow_capt", "set": "Вежа з балістою"}
+{"name": "name_banshee_v3", "set": "Квесте"}
+{"name": "name_gnome_v28", "set": "Спукі"}
+{"name": "plot_cage_unit_base_naga_capt", "set": "Полонена нага"}
+{"name": "resource_nexus_gold_medium_capt", "set": "Золота жила"}
+{"name": "tut_popup_wall_rich_gold_capt", "set": "Золота жила"}
+{"name": "res_effect_10", "set": "Золоті жили "}
+{"name": "room_kennel_capt", "set": "Вольєр"}
+{"name": "ui_keybinding_select_ranged", "set": "Вибрати дальніх бійців"}
+{"name": "unit_skill_necromancer_default_attack_capt", "set": "Чаклунська коса"}
+{"name": "ach_main11blessing_ghostheroes_capt", "set": "Примарні пірати? Примарні герої!"}
+{"name": "ui_create_new_savegame", "set": "Створити нове збереження"}
+{"name": "ui_msg_create_savegame_desc", "set": "Створити нове збереження?"}
+{"name": "dom_main03demon_rift", "set": "Арканні Розриви"}
+{"name": "name_necromancer_v7", "set": "Гордокобила"}
+{"name": "name_succubus_v27", "set": "Пруденс"}
+{"name": "unit_skeleton_flav", "set": "«Ти не маєш тут влади…»"}
+{"name": "unit_skill_attack_melee_darkling_capt", "set": "Ближній бій"}
+{"name": "unit_skill_default_attack_melee_capt", "set": "Ближній бій"}
+{"name": "name_westernsniper_v42", "set": "Х'яльті Самотній Постріл"}
+{"name": "name_creep_darkling_v9", "set": "Шейд Вейдер"}
+{"name": "name_westerngatling_v44", "set": "Курган Важка Рукоятка"}
+{"name": "stats_totaltimeinarena", "set": "Час на арені"}
+{"name": "unit_npc_shadowling_capt", "set": "Тіньовик"}
+{"name": "plot_main10fire_cage_unit_base_goblin_champion_capt", "set": "Полонений вершник на варгу"}
+{"name": "unit_banshee_info_1", "set": "Боєць ближнього бою (шкода холодом)"}
+{"name": "name_rider_v40", "set": "Баріврреліг Штормрайдер"}
+{"name": "unit_gnome_champion_info_1", "set": "Дальній боєць (фізична шкода)"}
+{"name": "unit_gnome_info_1", "set": "Дальній боєць (фізична шкода)"}
+{"name": "unit_vampirequeen_info_1", "set": "Дальній боєць (магічна шкода)"}
+{"name": "unit_skill_gloom_spellbreaker_damage_capt", "set": "Цілюща корозія"}
+{"name": "tut_popup_wall_gems_capt", "set": "Самоцвіт знайдено"}
+{"name": "ach_main03demon_spells_capt", "set": "Магічні нещасні випадки"}
+{"name": "atmo_animal_flav", "set": "«Іго-го, бе-е, хрю, кар!»"}
+{"name": "ach_main14run_roomdamage_capt", "set": "Лазерні очі такі марні"}

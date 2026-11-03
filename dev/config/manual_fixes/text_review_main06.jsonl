@@ -1,0 +1,116 @@
+{"name": "dlg_main06transporter_dwarfs_found_info_01", "set": "Талія та Жахливе Зло виявили гномів, які затишно влаштувалися в Підземеллі. На жаль, вони перегородили шлях до Магічної Вежі."}
+{"name": "dlg_main06transporter_dwarfs_found_info_02", "set": "Пф, невже ці пенсюки мусять тинятися скрізь по Підземеллю? Одного дня Базальторог заходить до їхнього королівства й виганяє звідти, а потім вони раптом опиняються всюди."}
+{"name": "dlg_main06transporter_dwarfs_found_info_03", "set": "І все тому, що вони хотіли накопати міфрилу для своїх друзів-ельфів. Або щось таке. ЯК ЗАВГОДНО! Побийте їх, поколотіть, зліпіть маленьких глиняних Базальторогів і лупіть ними, ха-ха-ха!"}
+{"name": "dlg_main06transporter_entrance_to_tower_found", "set": "Зло, що риє нори, знайшло замурований вихід у Верхній світ."}
+{"name": "dlg_main06transporter_intro_01", "set": "Талія залишила за собою слід руйнувань на шляху до Ради Шмаркачів. Тепер між нею та шляхом до вершини стояла лише Ущелина Героїв, Місто Героїв."}
+{"name": "dlg_main06transporter_intro_02", "set": "Ха, чудово! Отже, це зветься Ущелиною Героїв? Гадаю, я перейменую її на Могилу Героїв, коли закінчу з нею. Уперед, Істоти, час…"}
+{"name": "dlg_main06transporter_intro_03", "set": "Воїни, це місце треба захистити! Стійте міцно й запаліть магічні маяки!"}
+{"name": "dlg_main06transporter_intro_04", "set": "Тут нізвідки з'явився Трістан, наче слідував поганому сценарію. Ха, поганий сценарій соромився б такої паскудної історії!"}
+{"name": "dlg_main06transporter_intro_05", "set": "О так, і активуйте Магічну Вежу!"}
+{"name": "dlg_main06transporter_intro_06", "set": "Гей, це нечесно! Зрада, шахрайство!"}
+{"name": "dlg_main06transporter_intro_07", "set": "Завдяки променю Мани з Магічної Вежі Ущелину Героїв тепер захищав Магічний Щит, непроникний для Істот Зла."}
+{"name": "dlg_main06transporter_intro_08", "set": "Кмітливе Зло взялося складати план. Йому треба було заволодіти Вежею. Можливо, це не лише знищить Щит, а й знадобиться ще для чогось."}
+{"name": "dlg_main06transporter_intro_09", "set": "Звучить як блискучий план. Уперед, Істоти, не ламайте цю штуку… е-е… захопіть її, принесіть мені на неї документи!"}
+{"name": "dlg_main06transporter_magic_tower_attack_idle_random_01", "set": "Зло-цілитель приготувало Магічну Вежу, щоб обстріляти когось."}
+{"name": "dlg_main06transporter_magic_tower_attack_idle_random_02", "set": "Зло-стрілець націлило гармату Магічної Вежі на ціль."}
+{"name": "dlg_main06transporter_magic_tower_attack_idle_random_03", "set": "Зло, що стріляє з Магічної Вежі, вибрало ціль."}
+{"name": "dlg_main06transporter_magic_tower_cooldown_info_random_01", "set": "Гармата Магічної Вежі була готова до дії."}
+{"name": "dlg_main06transporter_magic_tower_cooldown_info_random_02", "set": "Магічна Вежа знову була доступна."}
+{"name": "dlg_main06transporter_magic_tower_cooldown_info_random_03", "set": "Магічна Вежа знову могла стріляти."}
+{"name": "dlg_main06transporter_mana_tower_conquert_01", "set": "Зло-завойовник захопило Магічну Вежу. Кількома вмілими доробками її перетворили на потужну зброю, здатну обстрілювати ділянки карти."}
+{"name": "dlg_main06transporter_mana_tower_conquert_02", "set": "Ха! Саме те, що мені потрібно. З цим ми зруйнуємо Бальдераан, тобто Ущелину Героїв, звісно! Уперед, заряджайте, а потім закидаємо їх пирогами, ха-ха-ха!"}
+{"name": "dlg_main06transporter_mana_transporter_initialize_info_01", "set": "Воїни, я бачу страх у ваших очах. Зло захопило Вежу. Якщо ми нічого не зробимо, Щит зрештою впаде. На щастя, час для відчаю ще не настав, адже є вихід. Конвої Мани!"}
+{"name": "dlg_main06transporter_mana_transporter_initialize_info_02", "set": "Схоже, Трістана не впустили головою в дитинстві, як дехто стверджував про його зведену сестру…"}
+{"name": "dlg_main06transporter_mana_transporter_initialize_info_03", "set": "Ей!"}
+{"name": "dlg_main06transporter_mana_transporter_initialize_info_04", "set": "…тож він подбав, щоб відтепер Ману доставляли до Щита суходолом."}
+{"name": "dlg_main06transporter_mana_transporter_killed_first_01", "set": "Підступне Зло зупинило Конвой Мани. Замість того щоб зміцнити Щит, вона тепер осядеться в Підземеллі!"}
+{"name": "dlg_main06transporter_mana_transporter_killed_first_02", "set": "Ха, ось так мені подобається! Саме так усе й має бути!"}
+{"name": "dlg_main06transporter_mana_transporter_killed_random_01", "set": "Конвой Мани було знищено."}
+{"name": "dlg_main06transporter_mana_transporter_killed_random_02", "set": "Істоти Руйнівного Зла знищили Конвой Мани."}
+{"name": "dlg_main06transporter_mana_transporter_killed_random_03", "set": "Один із Конвоїв Мани безславно закінчив свій шлях від рук Абсолютного Зла."}
+{"name": "dlg_main06transporter_mana_transporter_killed_random_04", "set": "Ха, ці Конвої Мани знищити легше, ніж масло! Гаразд, знищити фунт масла просто так теж доволі складно, бо швидко занудить і… НЕВАЖЛИВО. Ламайте ще!"}
+{"name": "dlg_main06transporter_mana_transporter_reach_target_all_random_01_01", "set": "Воїни, Світло й надалі освітлює нас. Усі Конвої дісталися призначення. Зробіть паузу й подякуйте Богині, друзі мої!"}
+{"name": "dlg_main06transporter_mana_transporter_reach_target_all_random_01_02", "set": "Гей, я вбила Богиню в минулій грі!"}
+{"name": "dlg_main06transporter_mana_transporter_reach_target_none_random_01", "set": "Воїни, хоч ми й зазнали важких втрат, не все втрачено. Щит тримається, і порятунок близько!"}
+{"name": "dlg_main06transporter_mana_transporter_reach_target_random_01", "set": "Конвой Мани досяг Щита й поповнив його свіжою Маною."}
+{"name": "dlg_main06transporter_mana_transporter_reach_target_random_02", "set": "Конвой Мани досяг щита. Тепер Щит постачався свіжою Маною."}
+{"name": "dlg_main06transporter_mana_transporter_reach_target_random_03", "set": "Щойно прибулий Конвой Мани поповнив запас Щита."}
+{"name": "dlg_main06transporter_mana_transporter_reach_target_some_random_01", "set": "Воїни, хоч ми й зазнали кількох втрат, зараз не час відчаюватися. Лишайтеся пильними й об'єднаймося, щоб битися за Світло!"}
+{"name": "dlg_main06transporter_mana_transporter_start_first_info_01", "set": "Уперед, товариші! Розчистіть шлях для першого Конвою!"}
+{"name": "dlg_main06transporter_mana_transporter_start_first_info_02", "set": "Що? Що за гад! Уперед, Істоти, зупиніть їх, розірвіть, розтрощіть, ріжте їх папером, щоб ПО-СПРАВЖНЬОМУ боліло!"}
+{"name": "dlg_main06transporter_mana_transporter_start_one_random_01", "set": "Захисний щит навколо Ущелини Героїв не повинен упасти. Нам потрібен ще один Конвой Мани!"}
+{"name": "dlg_main06transporter_mana_transporter_start_one_random_02", "set": "Воїни, потрібен ще один Конвой Мани, щоб зарядити щит."}
+{"name": "dlg_main06transporter_mana_transporter_start_one_random_03", "set": "Ще один одинокий Конвой Мани вирушив у дорогу."}
+{"name": "dlg_main06transporter_mana_transporter_start_three_random_01", "set": "Воїни, щит не можна дозволити впасти. Відправте три Конвої Мани! ЗАРАЗ!"}
+{"name": "dlg_main06transporter_mana_transporter_start_three_random_02", "set": "Три Конвої Мани поспішно рушили до Ущелини Героїв."}
+{"name": "dlg_main06transporter_mana_transporter_start_three_random_03", "set": "Ха, тепер вони відправляють одразу три Конвої Мани? Я буквально чую запах їхнього відчаю! Або це хтось із Шмаркачів, який уперто відмовляється користуватися дезодорантом!"}
+{"name": "dlg_main06transporter_mana_transporter_start_two_random_01", "set": "Воїни, щит починає хитатися. Нам потрібні два Конвої Мани. Негайно!"}
+{"name": "dlg_main06transporter_mana_transporter_start_two_random_02", "set": "Два Конвої Мани вирушили поповнювати щит Ущелини Героїв."}
+{"name": "dlg_main06transporter_mana_transporter_start_two_random_03", "set": "Ха, мій відчайдушний братик відправив одразу два Конвої Мани. Який невдаха!"}
+{"name": "dlg_main06transporter_manaling_big_info_01", "set": "Один Манавор з'їв стільки Мани, що виріс у великого, набагато сильнішого Манавора."}
+{"name": "dlg_main06transporter_manaling_big_info_02", "set": "Пф, тупі Манавори! Невже вони не можуть пожерти Ману якогось іншого злого підземного володаря? Наприклад, того Оберона."}
+{"name": "dlg_main06transporter_manaling_spawned_info_01", "set": "Шмаркачі Зла, що накопичує Ману, відкопали Манавора. Ці створіння відомі тим, що пожирають Ману."}
+{"name": "dlg_main06transporter_manaling_spawned_info_02", "set": "Наче цього було недостатньо тривожно, вони ще й сильнішали, а то й розмножувалися. Мало б сенс як слід захистити Арканіум."}
+{"name": "dlg_main06transporter_manaling_transformed_info_01", "set": "Великий Манавор наївся стільки Мани, що луснув, розпавшись на 2 менші Манавори!"}
+{"name": "dlg_main06transporter_manaling_transformed_info_02", "set": "Боже мій, ці Манавори гірші за тих Тріблів чи Трабблів чи як там їх. Хтось має з ними розібратися, поки їх не стало забагато!"}
+{"name": "dlg_main06transporter_manaling_transformed_info_03", "set": "Проте в мене є важливіші справи."}
+{"name": "dlg_main06transporter_mission_desc", "set": "Лише одне маленьке Місто Героїв стояло на шляху Талії та заважало їй нарешті піднятися на гору до Ради Шмаркачів. Ущелині Героїв доведеться впасти…"}
+{"name": "dlg_main06transporter_outro_01", "set": "Ха, ми їм показали! Гарна була розминка! До речі, ми і Трістана вбили? Він десь тут валяється?"}
+{"name": "dlg_main06transporter_outro_02", "set": "Талія потикала списом кількох убитих Героїв, але Трістана серед них не було. Схоже, Талія й не помітила, що той уже давно накивав п'ятами."}
+{"name": "dlg_main06transporter_outro_03", "set": "Пф. Мушу зізнатися, це трохи псує мені радість перемоги."}
+{"name": "dlg_main06transporter_outro_04", "set": "Звісно, це лише шоста місія. Було б забагато просити, щоб вся ця історія з Трістаном уже скінчилася."}
+{"name": "dlg_main06transporter_outro_05", "set": "Хм, я б точно могла розтягнути його кончину, повір. Я вмію бути дуже винахідливою!"}
+{"name": "dlg_main06transporter_outro_06", "set": "Але досить. Час нарешті дістатися до Ради Шмаркачів, отримати нову оболонку і нарешті добити тих Героїв!"}
+{"name": "dlg_main06transporter_outro_lose_01", "set": "Жалюгідне Зло не вберегло своє Серце Підземелля й не звертало на нього уваги, аж доки воно не спалахнуло. Сумно!"}
+{"name": "dlg_main06transporter_rampage_bored_idle_random_01_01", "set": "Таліє, твої вчинки не лише осудливі, а й ганебні. Ти поводишся як у свої 13. Або 14. Або 17. Або 25. Або…"}
+{"name": "dlg_main06transporter_rampage_bored_idle_random_01_02", "set": "Ти, мабуть, вважаєш себе дуже кумедним, ховаючись під своїм магічним щитком, так? Пф, ось і все, на що ви, Паладини, здатні: ховатися за товстими стінами, магічними щитами й виголошувати дурні промови!"}
+{"name": "dlg_main06transporter_rampage_bored_idle_random_01_03", "set": "Або як у свої 45. Або…"}
+{"name": "dlg_main06transporter_rampage_bored_idle_random_02_01", "set": "Таліє, ти ще там? Тут так нестерпно нудно, що можна подумати, ніби ти знову читаєш свою лекцію про вирощування конюшини."}
+{"name": "dlg_main06transporter_rampage_bored_idle_random_02_02", "set": "Я виростю конюшину на твоїй могилі!"}
+{"name": "dlg_main06transporter_rampage_bored_idle_random_03_01", "set": "Таліє, я щойно заварив собі смачний чай з валеріани. Може, приєднаєшся, і ми все спокійно обговоримо?"}
+{"name": "dlg_main06transporter_rampage_bored_idle_random_03_02", "set": "Ти чудово знаєш, що від валеріани в мене висип, ти, мерзенний лицеміре…"}
+{"name": "dlg_main06transporter_rampage_easy_idle_random_01", "set": "Таліє, твої вчинки не лише жахливі, а й цілком марні. Ти ніколи не знищиш Щит, що захищає Ущелину Героїв!"}
+{"name": "dlg_main06transporter_rampage_hard_idle_random_01_01", "set": "Таліє, я не можу допустити, щоб ти й далі завдавала страждань добрим громадянам! Відвернися від Зла, і я тобі пробачу!"}
+{"name": "dlg_main06transporter_rampage_hard_idle_random_01_02", "set": "Мені не потрібно, щоб хтось мені прощав, мені потрібні облогові машини! Давайте, зносьте щит, крадіть їхню Ману, а потім принесіть пилосос, щоб висмоктати рештки Мани, ха-ха-ха!"}
+{"name": "dlg_main06transporter_rampage_medium_idle_random_01", "set": "Таліє, ти, може, й завдала кількох ударів, але це Місто тримається. Благаю, переосмисли свої вчинки й повернись до Світла!"}
+{"name": "dlg_main06transporter_rampage_rampage_idle_random_01", "set": "Воїни, вирішальна битва вже попереду! Вони, може, й зруйнували наш Магічний Щит, але наша мужність і рішучість сильніші, ніж будь-коли! За мною в бій, і знищимо цей виводок раз і назавжди!"}
+{"name": "dlg_main06transporter_relaxing_chamber_build_end_01", "set": "Невимушене Зло збудувало Кімнату Спокою для своїх Демонів. Відтепер вони могли відпочивати й насолоджуватися затишною Ванною Мани."}
+{"name": "dlg_main06transporter_relaxing_chamber_build_start_01", "set": "Пекельне Зло вже мало в розпорядженні кількох досвідченіших демонічних Істот. Треба було збудувати Кімнату Спокою, щоб вони не занудьгували."}
+{"name": "dlg_main06transporter_relaxing_chamber_build_start_02", "set": "Кімната Спокою? Тьху, ледарі! Чого тільки не зробиш для підлеглих…"}
+{"name": "dlg_main06transporter_shield_below_40_info_01", "set": "Трістан тепер повністю усвідомив загрозу, яку становили Талія та Армія Зла, що перехоплює транспорт. Відтепер вирушатимуть по три Конвої."}
+{"name": "dlg_main06transporter_shield_below_70_info_01", "set": "Трістан побачив, що назріває небезпека: у Ущелині Героїв закінчувалася Мана. Відтепер вирушатимуть по два Конвої."}
+{"name": "dlg_main06transporter_shield_damage_spell_idle_random_01", "set": "Зло-чарівник використало свою Ману, щоб накласти на Магічний Щит атакувальні Закляття."}
+{"name": "dlg_main06transporter_shield_damage_spell_idle_random_02", "set": "Мана перетворювалася на суто руйнівну силу щоразу, коли Магічне Зло застосовувало Закляття проти Магічного Щита."}
+{"name": "dlg_main06transporter_shield_damage_spell_idle_random_03", "set": "Зло — випускник Гоґвортсу застосувало проти Магічного Щита потужну магію."}
+{"name": "dlg_main06transporter_shield_damage_tower_idle_random_01", "set": "Удар з Вежі припав на Магічний Щит на повну силу."}
+{"name": "dlg_main06transporter_shield_damage_tower_idle_random_02", "set": "Потужний удар з Вежі змусив Магічний Щит шалено замерехтіти."}
+{"name": "dlg_main06transporter_shield_damage_tower_idle_random_03", "set": "Атака Вежі вдарила по Щиту з усієї сили."}
+{"name": "dlg_main06transporter_shield_damage_unit_idle_random_01", "set": "Істоти Насильницького Зла пішли війною на Магічний Щит. Наскільки це буде ефективно, ніхто не знав."}
+{"name": "dlg_main06transporter_shield_damage_unit_idle_random_02", "set": "Істоти Шаленого Зла безцеремонно напали на Магічний Щит."}
+{"name": "dlg_main06transporter_shield_damage_unit_idle_random_03", "set": "Зло, що зручно вмостилося в кріслі, послало своїх Істот воювати проти Магічного Щита."}
+{"name": "dlg_main06transporter_shield_died_01", "set": "Магічний Щит було знищено. Тепер Ущелина Героїв стояла беззахисна перед армією Нищівного Зла."}
+{"name": "dlg_main06transporter_shield_died_02", "set": "Нарешті! Уперед, Істоти, добивайте їх, виводьте з гри, закидайте воском із крейд!"}
+{"name": "dlg_main06transporter_spawners_initialize", "set": "Діяльність Зла-копача не лишилася непоміченою. Незабаром Герої вирушать знищувати Серце Підземелля."}
+{"name": "dlg_main06transporter_spawners_initialize_fallback", "set": "Зло, що розгулювало Верхнім світом, помітили Герої. Незабаром вони спробують знищити Серце Підземелля."}
+{"name": "dlg_main06transporter_succubus_end_01", "set": "Зло-визволитель звільнило Суккубів із їхнього скрутного становища. Вони вдячно приєдналися до його Армії."}
+{"name": "dlg_main06transporter_succubus_first_unit_info_01", "set": "Перша Суккуба приєдналася до Армії Зла, що невпинно зростає. Ці пекельні Демониці вміли зачаровувати суперників і ненадовго переманювати їх на свій бік. Дуже корисні істоти!"}
+{"name": "dlg_main06transporter_succubus_start_01", "set": "Ходили чутки, що гноми схопили кількох Суккуб. Через борги за азартні ігри чи щось таке."}
+{"name": "dlg_main06transporter_succubus_start_02", "set": "Ха, борги за азартні ігри, хріни за азартні ігри! Ми їх звідти витягнемо, наймемо й нехай виконують за нас брудну роботу, ха-ха-ха!"}
+{"name": "dlg_main06transporter_tower_hit_first_info_01_01", "set": "Ей, що за чортівня? Нечувано, по нас тут стріляють."}
+{"name": "dlg_main06transporter_tower_hit_first_info_01_02", "set": "Талію та Армію Здивованого Зла обстріляла Магічна Вежа. Істоти Відсутнього Зла не мали спокою, доки її не захоплять."}
+{"name": "dlg_main06transporter_tower_hit_first_info_01_03", "set": "Ха, ніколи! Перезаряджайте, хлопці!"}
+{"name": "dlg_main06transporter_tower_hit_info_random_01_01", "set": "Гей, Трістане, припини! Стріляти в мене проти міжнародного права!"}
+{"name": "dlg_main06transporter_tower_hit_info_random_01_02", "set": "Ніби тебе колись цікавило міжнародне право! Ти ж на уроках тільки й плювалася в мене слизькими кульками!"}
+{"name": "dlg_main06transporter_tower_hit_info_random_02_01", "set": "Зрада, ворог б'є по моїх Істотах з тієї Магічної Вежі! Яке нахабство! Уперед, Істоти, зробіть із цим щось. Навіть якщо дехто з вас загине, я готова піти на цю жертву."}
+{"name": "dlg_main06transporter_tower_hit_start_01", "set": "Воїни, наведіть Вежу й відкрийте вогонь по цих мерзенних виродках!"}
+{"name": "dlg_main06transporter_tower_hit_start_02", "set": "Люди Трістана застосували Магічну Вежу проти армій Обуреного Зла. Якщо Вежу не захопити, будь-які вилазки у Верхній світ будуть вкрай неприємними."}
+{"name": "dlg_main06transporter_tower_reminder_random_01", "set": "Зло без Вежі все ще не контролювало Магічну Вежу. Подумки ляснувши себе по лобі, воно взялося це виправляти."}
+{"name": "dlg_main06transporter_tower_reminder_random_02", "set": "Зло, що не захопило Вежу, дивилося на карту порожнім поглядом. Невже воно про щось забуло? Насправді воно досі не захопило Магічну Вежу. Воно швидко взялося це виправити."}
+{"name": "dlg_main06transporter_tower_reminder_random_03", "set": "Гей, ти ДОСІ не захопив ту Магічну Вежу. Просто зроби це!"}
+{"name": "dlg_main06transporter_village_destroyed_info_random_01_01", "set": "Жахливе Зло знищило одне із сіл навколо Ущелини Героїв. Трістан, схоже, був не в захваті."}
+{"name": "dlg_main06transporter_village_destroyed_info_random_01_02", "set": "Таліє, варварське чудовисько! Ті чесні селяни тобі нічого не зробили! Скоро я знову тебе спіймаю й віддам під суд!"}
+{"name": "dlg_main06transporter_village_destroyed_info_random_01_03", "set": "Дякую, але однієї поїздки в клітці з тобою мені цілком вистачило, «братику любий»."}
+{"name": "dlg_main06transporter_village_destroyed_info_random_02_01", "set": "Ха, ще одне село палає, а мій зведений брат ховається під столом. Як тоді на дні народження Володимира, ха-ха-ха!"}
+{"name": "dlg_main06transporter_village_destroyed_info_random_02_02", "set": "Ти обіцяла ніколи про це не згадувати. Ніколи!"}
+{"name": "dlg_main06transporter_village_destroyed_info_random_03_01", "set": "Таліє, звірюко! Припини мучити тих бідних селян! Зв'язуйся з тими, хто дужчий за тебе!"}
+{"name": "dlg_main06transporter_village_destroyed_info_random_03_02", "set": "Ха, каже той, хто ховається за гігантським магічним щитом!"}

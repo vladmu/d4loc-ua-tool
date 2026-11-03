@@ -1,0 +1,16 @@
+{
+  "_коментар": "Розподіл голосів Holos за ролями (номер голосу з файлів кастингу). Ключ = тег ролі в колонці voice (порожній = диктор/Володар).",
+  "": 14,
+  "thalya": 4,
+  "thalya_good": 3,
+  "story_bystanderfemale1": 3,
+  "story_dwarfqueen": 21,
+  "story_western": 11,
+  "story_brother": 8,
+  "tanos": 17,
+  "story_angel": 1,
+  "tristan_good": 6,
+  "mage_boss": 10,
+  "story_bystandermale1": 16,
+  "story_bystandermale2": 13
+}

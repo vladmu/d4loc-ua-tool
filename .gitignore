@@ -1,0 +1,80 @@
+# Python caches
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and downloaded models (local, reproducible from requirements*.txt)
+.venv/
+venv/
+env/
+build_env/
+holos_env/
+tts_env/
+models/
+
+# Game files and audio are never committed (the originals belong to the rights holders)
+*.unity3d
+*.wav
+*.ogg
+*.fsb
+*.resource
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Output of the build and of the pipeline commands (pyinstaller, `release`)
+build/
+dist/
+*.spec
+release_assets/
+
+# The content repository is cloned here separately
+content/
+
+# IDEs and editors
+.idea/
+.vscode/
+.vs/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# AI coding assistants: local settings, history, memory and instruction files
+.claude/
+.cursor/
+.continue/
+.windsurf/
+.codeium/
+.codex/
+.gemini/
+.roo/
+.cline/
+.copilot/
+.aider*
+.clinerules
+.cursorrules
+.cursorignore
+.windsurfrules
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+GEMINI.md
+.github/copilot-instructions.md
+*.transcript.jsonl

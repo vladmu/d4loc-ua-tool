@@ -1,0 +1,96 @@
+{"name": "gimmick_guardroom_flav", "set": "«Гоооооонг!»"}
+{"name": "name_banshee_v11", "set": "Ексме"}
+{"name": "name_gnome_v44", "set": "Лолзі"}
+{"name": "ui_menu_purchase_xboxone", "set": "Microsoft Store …"}
+{"name": "ui_hotkey", "set": "Гарячі клавіші"}
+{"name": "ui_keybinding_possession_toggle", "set": "Увімкнути/вимкнути одержимість Шмаркача"}
+{"name": "unit_banshee_capt", "set": "Баньші"}
+{"name": "perk_potion_damage_suffix_f_3", "set": "Каток"}
+{"name": "perk_potion_damage_suffix_m_3", "set": "Каток"}
+{"name": "name_banshee_v29", "set": "Аппара"}
+{"name": "name_gazer_v2", "set": "Стікну"}
+{"name": "name_guardian_v11", "set": "Тисостеб"}
+{"name": "res_effect_28", "set": "Шкода/с "}
+{"name": "stats_torturedsnots", "set": "Замучено Шмаркачів"}
+{"name": "name_creep_darkling_v8", "set": "Хихикопустка"}
+{"name": "ach_nexus02realm_completed_capt", "set": "Брат і сестра у бурі"}
+{"name": "name_snot_v10", "set": "Сніфел"}
+{"name": "spell_pitfiend_capt", "set": "Диявол Ями"}
+{"name": "ui_dlc", "set": "DLC"}
+{"name": "name_westernpistol_v1", "set": "Флінт Айроншот"}
+{"name": "name_darkelf_spellbreaker_v16", "set": "Рейтберн"}
+{"name": "name_necromancer_v25", "set": "Пог"}
+{"name": "campaign_skir", "set": "Сутичка"}
+{"name": "name_priestess_v11", "set": "Ері"}
+{"name": "res_western_capt", "set": "Пастки Дикого Заходу"}
+{"name": "spell_creategurus_flav", "set": "«Кулдик-кулдик-кулдик!»"}
+{"name": "room_gurufarm_flav", "set": "«Кулдик-кулдик-кулдик!»"}
+{"name": "goal_western02rescue_train_01", "set": "Блюз вантажного потяга"}
+{"name": "unit_skill_crystalgolem_summon_capt", "set": "Виклич Осколків"}
+{"name": "name_darkelf_blackguard_v14", "set": "Роузбейн"}
+{"name": "name_skeleton_v40", "set": "Мародер-переслідувач"}
+{"name": "building_nexus_goldmine_flav", "set": "«Гей-хо, гей-хо!»"}
+{"name": "dom_main03demon_rift_cooldown", "set": "Арканні Розриви"}
+{"name": "goal_main03demon_rifts_collect", "set": "Арканні Розриви:"}
+{"name": "plot_main03demon_arcane_rift_capt", "set": "Арканний Розрив"}
+{"name": "ach_platinum_desc", "set": "Зліше вже нікуди!"}
+{"name": "ui_keybinding_dominants", "set": "Дії, специфічні для місії"}
+{"name": "ach_nexus03waves_shadowmarks_capt", "set": "Бій з тінню"}
+{"name": "evilperk_slap_guru_capt", "set": "Масовий убивця Гоглерів"}
+{"name": "gimmick_place_requirements", "set": "Потрібне місце"}
+{"name": "name_darkelf_darkknight_v14", "set": "Дредесса"}
+{"name": "name_darkelf_darkknight_v8", "set": "Рубака Беккі"}
+{"name": "perk_potion_damage_capt", "set": "Перк шкоди"}
+{"name": "plot_cage_unit_base_imp_capt", "set": "Полонений імп"}
+{"name": "plot_cage_unit_base_gnome_capt", "set": "Полонений гном"}
+{"name": "plot_cage_unit_nexus_elf_warden_capt", "set": "Полонений вартовий"}
+{"name": "plot_tales03freeze_crater_pit_interactable_short", "set": "Охолоджує ядро"}
+{"name": "tut_popup_western04escort_escort_capt", "set": "Перегони"}
+{"name": "name_darkelf_spellbreaker_v8", "set": "Невтомний Весельчак"}
+{"name": "ui_playername_host", "set": "Зло-господар"}
+{"name": "name_creep_spiderling_v2", "set": "Спін'Фус"}
+{"name": "plot_western05showdown_spline_mover_train_boss_desc", "set": "Пилопробивач"}
+{"name": "name_guardian_v32", "set": "Тисова Стійка"}
+{"name": "spell_healing_capt", "set": "Цілюще зілля"}
+{"name": "name_westernsniper_v33", "set": "Мішень Трейн"}
+{"name": "stats_producedmana", "set": "Вироблено мани"}
+{"name": "name_creep_manaling_v8", "set": "Мана-Скільки-Влізе"}
+{"name": "name_guardian_v34", "set": "Вербогілка"}
+{"name": "perk_potion_aspect_magic_suffix_m_3", "set": "Дементор"}
+{"name": "stats_blightproduced", "set": "Вироблено скверни"}
+{"name": "stats_lostsnots", "set": "Втрачено Шмаркачів"}
+{"name": "stats_torturedcreatures", "set": "Закатовано Істот"}
+{"name": "stats_creatureometer", "set": "Метрів пройдено Істотами"}
+{"name": "stats_heroometer", "set": "Метрів пройдено Героями"}
+{"name": "ui_evilHubs", "set": "Добрі локації"}
+{"name": "ui_need_debt_capt", "set": "Зарплата"}
+{"name": "ui_setting_bloomquality_capt", "set": "Ефект світіння"}
+{"name": "ui_setting_novideo_capt", "set": "Кат-сцени"}
+{"name": "ach_main04undead_sacrifice_capt", "set": "Жертовна яма = сміттєпровід?"}
+{"name": "research_no_free_station", "set": "Немає вільної кафедри"}
+{"name": "goal_main02horde_evil_deed_slap", "set": "Ляпасів роздано:"}
+{"name": "perk_potion_payday_capt", "set": "Перк марнотрата"}
+{"name": "ach_main08sacrifice_completed_capt", "set": "Великий Ненажера"}
+{"name": "gimmick_hideout_gnome_flav", "set": "*Хр-р-р*"}
+{"name": "gimmick_hideout_orc_capt", "set": "Орочі нари"}
+{"name": "goal_main11blessing_revenge", "set": "Хрестовий похід Таноса"}
+{"name": "unit_gazer_info_1", "set": "Дальній боєць (шкода вогнем)"}
+{"name": "unit_imp_info_1", "set": "Дальній боєць (шкода вогнем)"}
+{"name": "unit_infernal_info_1", "set": "Дальній боєць (шкода вогнем)"}
+{"name": "cha_nexus03waves_sunbeamlaserupgrade_desc", "set": "Повністю прокачай Божественне Світло."}
+{"name": "ui_setting_chattiness_capt", "set": "Балакучість оповідача"}
+{"name": "ach_main01begin_storm_capt", "set": "Зосереджена Лють Талії"}
+{"name": "dom_main01begin_evil_storm", "set": "Зосереджена Лють Талії"}
+{"name": "name_gnome_v51", "set": "Гуфі"}
+{"name": "dom_main10fire_cathedral_kill", "set": "Підпали Полум'яне Пиво"}
+{"name": "goal_main15drill_drill", "set": "Бур Скінченності"}
+{"name": "goal_main14run_escape_conquer_city", "set": "Захопи місто"}
+{"name": "name_guardian_v23", "set": "Кропивожолудь"}
+{"name": "name_westernsniper_v31", "set": "Бофрі Мертва Хватка"}
+{"name": "goal_main04undead_undeads", "set": "Ходячі мерці"}
+{"name": "name_banshee_v33", "set": "Самоцвіт"}
+{"name": "name_creep_lavaling_v9", "set": "Гострий МакГострий"}
+{"name": "name_darkelf_blackguard_v16", "set": "Каел Вісник Гніву"}
+{"name": "name_succubus_v16", "set": "Віллоу"}
+{"name": "res_undead_flav", "set": "Мозкиииии…"}
+{"name": "unit_necromancer_minion_flav", "set": "«Мозкиииии…»"}

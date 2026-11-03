@@ -1,0 +1,95 @@
+name: Release
+
+# Builds the two Windows executables when a version tag (for example, v0.1.0) is pushed to the repository:
+#   D4Loc-UA-Installer.exe  the players' installer (no translator tool)
+#   D4Loc-UA-Toolkit.exe    the full application: installer and translator tool
+# and adds them to the release together with the checksums and the build provenance attestation.
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write        # creating the release
+  id-token: write        # build provenance (attestation)
+  attestations: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12.10"
+
+      - name: Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.lock.txt pytest
+
+      - name: Tests
+        run: python -m pytest tests -q
+
+      # --add-data is given as an absolute path: a relative one would be resolved against --specpath (build/)
+      - name: Build D4Loc-UA-Toolkit.exe (installer and translator tool)
+        run: |
+          pyinstaller --noconfirm --onefile --windowed `
+            --name D4Loc-UA-Toolkit `
+            --workpath build/toolkit `
+            --specpath build `
+            --collect-all UnityPy `
+            --collect-all soundfile `
+            --collect-all fmod_toolkit `
+            --collect-all archspec `
+            --collect-all sv_ttk `
+            --collect-all av `
+            --add-data "$PWD/src/d4loc/background.jpg;d4loc" `
+            --paths src `
+            src/d4loc/__main__.py
+
+      - name: Build D4Loc-UA-Installer.exe (the players' installer)
+        run: |
+          pyinstaller --noconfirm --onefile --windowed `
+            --name D4Loc-UA-Installer `
+            --workpath build/installer `
+            --specpath build `
+            --collect-all UnityPy `
+            --collect-all soundfile `
+            --collect-all fmod_toolkit `
+            --collect-all archspec `
+            --collect-all sv_ttk `
+            --collect-all av `
+            --add-data "$PWD/src/d4loc/background.jpg;d4loc" `
+            --paths src `
+            src/d4loc/installer.py
+
+      - name: Self-test of both executables
+        run: |
+          foreach ($exe in "D4Loc-UA-Toolkit", "D4Loc-UA-Installer") {
+            $p = Start-Process -FilePath "dist/$exe.exe" -ArgumentList "--selftest", "$exe-selftest.txt" -Wait -PassThru
+            if ($p.ExitCode -ne 0) { Get-Content "$exe-selftest.txt"; exit 1 }
+          }
+
+      - name: Checksums
+        run: |
+          foreach ($exe in "D4Loc-UA-Installer.exe", "D4Loc-UA-Toolkit.exe") {
+            $h = (Get-FileHash "dist/$exe" -Algorithm SHA256).Hash.ToLower()
+            "$h  $exe" | Add-Content dist/SHA256SUMS.txt
+          }
+
+      - name: Build provenance
+        uses: actions/attest-build-provenance@v2
+        with:
+          subject-path: |
+            dist/D4Loc-UA-Installer.exe
+            dist/D4Loc-UA-Toolkit.exe
+
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/D4Loc-UA-Installer.exe
+            dist/D4Loc-UA-Toolkit.exe
+            dist/SHA256SUMS.txt
+          generate_release_notes: true

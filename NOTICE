@@ -1,0 +1,54 @@
+D4 UA Localization Toolkit, Community Edition (vladmu/d4loc-ua-tool): неофіційний інструмент для Dungeons 4 — українізація та інструменти перекладача
+Авторське право (c) 2026 Vladyslav Mustafin <v.mustafin@gmail.com>, GitHub: vladmu
+
+Умови поширення цього проєкту:
+  - Код (скрипти, інсталятор): GNU General Public License v3.0 або новіша, див. файл LICENSE.
+  - Переклад, українські репліки, глосарій і таблиці живуть в окремому репозиторії контенту vladmu/d4loc-ua-content
+    під Creative Commons Attribution-ShareAlike 4.0 International (див. LICENSE там).
+  Похідні роботи мають лишатися відкритими на тих самих умовах і зберігати згадку про авторство.
+
+Участь штучного інтелекту
+  - Чернетка перекладу: Gemma 3 12B (Google), локально через llama.cpp.
+  - Редагування, виправлення, скрипти, діагностика: Claude (Anthropic), під керівництвом автора.
+  - Озвучення: Holos TTS (синтез мовлення).
+  Остаточні рішення щодо термінів, голосів і правок ухвалював автор.
+
+Відмова від відповідальності: DISCLAIMER.md (англійською та українською мовами; стандартні положення GPL-3.0, розділи 15-16).
+
+Гра та її матеріали
+  Dungeons 4 (c) Realmforge Studios / Kalypso Media. Проєкт неофіційний і не пов'язаний з правовласниками.
+  Файли гри (бандли, оригінальні тексти й озвучення) НЕ входять до цього репозиторію й не поширюються. Інсталятор
+  працює з копією гри, яку має користувач, і створює українські файли локально. Єдина зміна наявних файлів: у кожен мовний файл (loca_*_texts.csv) додається один рядок з назвою української мови для меню налаштувань (з резервною копією, яку видалення відновлює); аудіобандли наявних мов не змінюються.
+
+Зображення
+  src/d4loc/background.jpg (фон вікна): "wheat stalks in the sunlight", автор pixel2013 (Pixabay), CC0 / суспільне надбання,
+  джерело https://www.goodfreephotos.com/public-domain-images/wheat-stalks-in-the-sunlight.jpg.php (файл зменшено до 1920 px).
+
+Сторонні компоненти, на які спирається проєкт
+  Holos TTS (holos-tts-onnx та ваги моделі patriotyk/HolosTTS) ........ MIT          https://github.com/patriotyk/HolosTTS
+  ipa-uk (lang-uk) ................................................... MIT          https://github.com/patriotyk/ipa-uk
+  ukrainian-word-stress (patriotyk) .................................. MIT          https://github.com/patriotyk/ukrainian-word-stress
+  Stanza (Stanford NLP) та модель stanza-uk .......................... Apache-2.0   https://github.com/stanfordnlp/stanza
+  UnityPy (K0lb3) .................................................... MIT          https://github.com/K0lb3/UnityPy
+  ONNX Runtime ....................................................... MIT          https://github.com/microsoft/onnxruntime
+  PyAV (кодування й читання Ogg Opus) ............................... BSD-3-Clause https://github.com/PyAV-Org/PyAV
+  FFmpeg (у складі PyAV; Ogg, кодек Opus) ............................ LGPL-2.1+ / GPL-2.0+  https://ffmpeg.org (вихідний код: https://ffmpeg.org/download.html)
+      Збірка PyAV для Windows містить також libx264 (GPL-2.0+); ми використовуємо лише Ogg і кодек Opus. Умови GPL сумісні
+      з ліцензією коду цього проєкту (GPL-3.0).
+  Opus (libopus) ..................................................... BSD-3-Clause https://opus-codec.org
+  NumPy .............................................................. BSD-3-Clause
+  SciPy .............................................................. BSD-3-Clause
+  soundfile .......................................................... BSD-3-Clause
+  librosa ............................................................ ISC
+  PyTorch ............................................................ BSD-3-Clause
+  pymorphy3 .......................................................... MIT
+  pymorphy3-dicts-uk ................................................. GPL-3.0      (лише перевірки тексту під час розробки)
+  tts-uk (nazar12314/ukrainian_tts), vocos-mel-hifigan ............... MIT          (лише ранні експерименти)
+  llama.cpp .......................................................... MIT          https://github.com/ggml-org/llama.cpp
+  Gemma 3 12B (Google) ............................................... Gemma Terms of Use  https://ai.google.dev/gemma/terms
+      Чернетка перекладу створена за допомогою Gemma 3. Вихідні тексти (outputs) не є похідною моделлю за умовами
+      Gemma, але користувач відповідає за дотримання Gemma Prohibited Use Policy.
+
+Точні версії всіх залежностей і інструментів — у README.md (розділ «Версії та залежності») та файлах requirements*.lock.txt.
+
+Тексти ліцензій залежностей див. у відповідних репозиторіях. Якщо ви помітили розбіжність у ліцензіях, створіть issue.

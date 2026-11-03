@@ -1,0 +1,80 @@
+{"name": "room_stonesocket_flav", "set": "«Скін… ченність»"}
+{"name": "goal_main10fire_champions", "set": "Розведення в клітках? Ні, дякую!"}
+{"name": "unit_goblin_champion_info_1", "set": "Боєць ближнього бою (фізична шкода)"}
+{"name": "unit_goblin_info_1", "set": "Боєць ближнього бою (фізична шкода)"}
+{"name": "unit_orc_champion_info_1", "set": "Боєць ближнього бою (фізична шкода)"}
+{"name": "unit_orc_info_1", "set": "Боєць ближнього бою (фізична шкода)"}
+{"name": "unit_skeleton_info_1", "set": "Боєць ближнього бою (шкода холодом)"}
+{"name": "artifact_guru_capt", "set": "Артефакт «Ловець Гоглерів»"}
+{"name": "artifact_mana_capt", "set": "Артефакт «Фонтан Мани»"}
+{"name": "artifact_gold_improved_capt", "set": "Артефакт «Скільки Золота»"}
+{"name": "artifact_evilness_improved_capt", "set": "Артефакт «Море Зловісності»"}
+{"name": "gimmick_guardroom_capt", "set": "Сторожовий дзвін"}
+{"name": "goal_western04escort_train", "set": "Поповнення запасів потяга"}
+{"name": "goal_western03bounty_resources_train", "set": "Поповнення запасів потяга"}
+{"name": "level_props_barricade_wood_destroyable_capt", "set": "Купа дров"}
+{"name": "name_banshee_v19", "set": "Натура"}
+{"name": "name_darkelf_beastmaster_v10", "set": "Сільвейн"}
+{"name": "name_rider_v29", "set": "Гагрек Конюх"}
+{"name": "plot_tales04sheep_dynamite_sheep_capt", "set": "Вівця-камікадзе з динамітом"}
+{"name": "goal_main10fire_naga_rescue", "set": "Врятуй чемпіона-нагу"}
+{"name": "name_westernsniper_v35", "set": "Завуальований Валі"}
+{"name": "unit_skill_nexus_tower_electric_capt", "set": "Арканна гроза"}
+{"name": "ach_main08sacrifice_completed_obta", "set": "Ти завершив «Великий Ненажера»."}
+{"name": "dom_main10fire_cathedral_beer_counter", "set": "Вогняного пива запасено"}
+{"name": "goal_main14run_quest_gurus", "set": "Доправ Гоглерів до Ради"}
+{"name": "name_creep_darkling_v6", "set": "Шлімм Шейді"}
+{"name": "name_mage_v13", "set": "Дабл-Гор"}
+{"name": "name_sneak_v4", "set": "Хіт-Гьорл"}
+{"name": "ui_keybinding_gamepad_hud_ring", "set": "Кільцеве меню"}
+{"name": "unit_orc_info_2", "set": "Багато життєвої енергії"}
+{"name": "ach_main15drill_untouchable_capt", "set": "Недоторканний"}
+{"name": "stats_receiveddamage", "set": "Отримана шкода"}
+{"name": "evilperk_general_hire_capt", "set": "Масова мобілізація"}
+{"name": "goal_main16ring_vulcano", "set": "Вулкан Пагорба Загибелі"}
+{"name": "ui_setting_skinhand_val_xmas_capt", "set": "Різдвяний кобольд"}
+{"name": "ach_tales04sheep_sheepfarms_capt", "set": "Пастуше побачення"}
+{"name": "name_darkelf_spellbreaker_v12", "set": "Облівіор Майстер Згуби"}
+{"name": "goal_main11blessing_crypt_wait_undead_heroes", "set": "Очікування перетворення"}
+{"name": "ach_main17stone_explosions_capt", "set": "Сірка збовтана, але не змішана"}
+{"name": "ui_setting_seasonvisuals_lunarnewyear", "set": "Вічний місячний Новий рік"}
+{"name": "ach_main03demon_completed_capt", "set": "Пекельні ліси"}
+{"name": "ach_main04undead_completed_capt", "set": "Рівнини Стротальма"}
+{"name": "building_nexus_tower_cannon_capt", "set": "Гарматна вежа"}
+{"name": "hero_tower_canon_capt", "set": "Гарматна вежа"}
+{"name": "object_hero_city_tower_canon_capt", "set": "Гарматна вежа"}
+{"name": "goal_main01begin_rescue", "set": "Полонених істот"}
+{"name": "hero_yaina_capt", "set": "Яйна Надгорда"}
+{"name": "name_creep_manaling_v1", "set": "Манахруст"}
+{"name": "name_priestess_v17", "set": "Злоба"}
+{"name": "name_pyro_v23", "set": "Вулорд Попелясте Серце"}
+{"name": "name_westernsniper_v49", "set": "Бренд Удар у Спину"}
+{"name": "potion_explosion", "set": "Вибухове зілля"}
+{"name": "spell_explosion_capt", "set": "Вибухове зілля"}
+{"name": "res_nexus_tower_1_desc", "set": "Відкриває будівлю «Сторожова вежа»"}
+{"name": "building_nexus_tower_scout_capt", "set": "Сторожова вежа"}
+{"name": "tut_popup_wall_hard_capt", "set": "Стіни із сірого каменю"}
+{"name": "ui_credits", "set": "Титри"}
+{"name": "ui_modding_status_broken", "set": "пошкоджений"}
+{"name": "ui_obtainable_perks", "set": "Вміння, які можна розблокувати"}
+{"name": "unit_skeleton_capt", "set": "Володар Кісток"}
+{"name": "unit_skill_gloom_darkknight_passive_buff_capt", "set": "Поранений бігає швидше"}
+{"name": "unit_skill_rider_gold_speed_capt", "set": "Сила Цапа"}
+{"name": "name_westernsniper_v19", "set": "Стрілець Бомбур"}
+{"name": "name_mage_v16", "set": "Дурнодвер"}
+{"name": "no_enough_gems", "set": "Бракує самоцвітів!"}
+{"name": "dom_western05showdown_train_health_desc", "set": "Здоров'я Пилопробивача"}
+{"name": "name_darkelf_blackguard_v15", "set": "Пенанс Жорстокий"}
+{"name": "ui_gs_pitfiend_cooldown_key_capt", "set": "Затримка вміння Диявола Ями"}
+{"name": "name_darkelf_darkknight_v10", "set": "Клівеа Довгий Клинок"}
+{"name": "name_ranger_v6", "set": "Аллнвен Дика Хмара"}
+{"name": "name_westernbrewmaster_v10", "set": "Балдор Пивовар"}
+{"name": "name_westerngatling_v28", "set": "Дракен Залізний Ланцюг"}
+{"name": "name_westernsniper_v5", "set": "Фундін Соколине Око"}
+{"name": "goal_nexus01base_needs_ranch", "set": "Збудуй ранчо Гоглерів"}
+{"name": "ach_western05showdown_heartattack_capt", "set": "Кардіостимулятор"}
+{"name": "evilperk_thalya_xp_capt", "set": "Роуд-тріп"}
+{"name": "goal_nexus01base_shadow_mark_small_kill", "set": "Знищ зловісний розлом"}
+{"name": "name_goblin_v24", "set": "Віізард"}
+{"name": "name_westernpistol_v23", "set": "Корім Штормовий Плащ"}
+{"name": "stats_eatengurus", "set": "З'їдено Гоглерів"}

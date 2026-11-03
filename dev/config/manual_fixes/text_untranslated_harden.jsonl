@@ -1,0 +1,1 @@
+{"name": "unit_skill_gloom_blackguard_passive_harden_desc", "set": "Союзники в радіусі {attack:harden_range!dist}, у яких менш ніж {attack:harden_healthpercent!percent} життєвої енергії, отримують додатково {attack:harden_armor} броні."}

@@ -1,0 +1,41 @@
+{"name": "RP_D4_InMainMenu", "set": "Грає в Dungeons 4"}
+{"name": "RP_D4_PlayingCampaign", "set": "Грає в кампанію Dungeons 4"}
+{"name": "RP_D4_PlayingCampaignMultiplayer", "set": "Грає в кооперативну кампанію Dungeons 4"}
+{"name": "RP_D4_PlayingSkirmish", "set": "Грає на карті сутички в Dungeons 4"}
+{"name": "RP_D4_PlayingSkirmishMultiplayer", "set": "Грає на карті сутички в кооперативі Dungeons 4"}
+{"name": "_title_capt_demo", "set": "Dungeons 4: Демо-версія"}
+{"name": "ui_maps_alt", "set": "Dungeons 4: карти"}
+{"name": "ui_setting_skinthalya_val_legacyevil_capt", "set": "Dungeons 3 (Зло)"}
+{"name": "ui_setting_skinthalya_val_legacygood_capt", "set": "Dungeons 3 (Добро)"}
+{"name": "ui_anniversary_dungeonsfranchise", "set": "Серія Dungeons"}
+{"name": "dlg_general_wall_gems_found_info_01", "set": "Шмаркачі Безтурботного Зла знайшли самоцвіт. Зберігався у Скарбниці, і коштував дуже, дуже багато Золота!"}
+{"name": "dlg_general_wall_rich_gold_info_01", "set": "Жадібне до золота Зло наказало своїм Шмаркачам видобувати золоту жилу. Це було б ще швидше, якби навколо неї збудували надійну Скарбницю."}
+{"name": "dlg_gloom03barrier_reached_entrance_02", "set": "Знову-таки, проявилося нове вхід до Підземелля – наче довгошукана підказка до Скарбниці, сповненої зловісних можливостей, або шлях до наступного артефакту темних ельфів. Хто б подумав, що об’їзд іноді – найшвидший шлях до мети? Окрім тих, хто колись потрапляв у затор."}
+{"name": "goal_main02horde_secondary_treasury", "set": "Побудуй Скарбницю (щонайменше 5x5)"}
+{"name": "goal_main02horde_secondary_treasury_desc", "set": "Золото можна зберігати у Скарбниці. Чим вона більша, тим більше можна зберігати."}
+{"name": "goal_western03bounty_resources_train_gold_desc", "set": "Шмаркачі зберігають Золото у твоїй Скарбниці."}
+{"name": "room_treasury_desc", "set": "Золото зберігається у Скарбниці. Жила золота видобувається швидше, якщо її оточує Скарбниця."}
+{"name": "tut_popup_room_treasury_1", "set": "Золото зберігається у Скарбниці. Ти можеш витрачати лише збережене золото."}
+{"name": "tut_popup_room_treasury_2", "set": "Скарбниця, що охоплює Жилу Золота, збільшує швидкість видобутку завдяки ефективності кімнат."}
+{"name": "tut_popup_wall_gems_1", "set": "Самоцвіти особливо цінні. Кинь один із них у Скарбницю, щоб перетворити на п’ять тисяч золотих монет. Самоцвіти можна знайти випадково у твердих шарах каменю."}
+{"name": "tut_popup_wall_light_gold_1", "set": "Іноді в скелях можна знайти поклади Золота. Коли твої Шмаркачі його викопають, воно вивалиться зі стіни і зможе потрапити до Скарбниці."}
+{"name": "ui_event_far_away_treasury_desc", "set": "Жила Золота не знаходиться у Скарбниці, тому її видобувають значно менш ефективно!"}
+{"name": "ui_event_gold_not_reachable", "set": "{notification:TargetName} не може дістатися до Скарбниці!"}
+{"name": "goal_main02horde_secondary_hideout", "set": "Побудуй Схованку (не менше 6x6)"}
+{"name": "goal_main02horde_secondary_hideout_desc", "set": "Схованка дає твоїм Істотам орди місце для відпочинку та відновлення."}
+{"name": "res_hideout_2_desc", "set": "Лікування Істот орди у Схованці {needbuff:durationbonus!bonusinversion!forcesign!*100!percent}."}
+{"name": "room_hideout_capt", "set": "Схованка"}
+{"name": "room_hideout_desc", "set": "Новонайняті Істоти орди йдуть до Схованки, щоб облаштувати свої ліжка."}
+{"name": "tut_popup_horde_info_1", "set": "Істоти орди шукають місце у Схованці, щоб облаштувати табір, де вони люблять відпочивати час від часу. Крім того, істоти орди люблять їсти Шмаркачів та отримувати зарплату у день виплати."}
+{"name": "tut_popup_horde_info_2", "set": "Істоти орди лікуються, коли відпочивають у Схованці. Або ж Нага може вилікувати всіх істот орди."}
+{"name": "tut_popup_horde_unit_no_gimmick_01", "set": "Одна з твоїх істот орди не змогла знайти місце у Схованці для будівництва барака."}
+{"name": "tut_popup_horde_unit_no_gimmick_capt", "set": "Немає місця у Схованці"}
+{"name": "tut_popup_room_hideout_1", "set": "У Схованці істоти, яких найняла Орда, облаштовують табір, де можуть відпочити та зцілитися."}
+{"name": "goal_main02horde_hamster_wheel_build", "set": "Побудуй пастки:"}
+{"name": "goal_main03demon_secondary_arcanium_desc", "set": "Побудуй Святилища Мани, щоб виробляти Ману."}
+{"name": "goal_main07storm_potionlodge_build", "set": "Побудуй Відьминський Напій за допомогою Алхімічної Котла."}
+{"name": "goal_main10fire_battery_build", "set": "Побудуй Інфузомат"}
+{"name": "goal_nexus01base_mana_temple", "set": "Побудуй Святе Місце"}
+{"name": "goal_nexus01base_needs_ranch", "set": "Побудуй ранчо Гоглерів"}
+{"name": "tut_popup_wall_rich_gold_2", "set": "Швидкість видобутку Золотої Жили зростає, якщо її оточує Скарбниця. Без Скарбниці ефективність лише 20%."}
+{"name": "motd_v7", "set": "Багато чого в Підземеллі можна пришвидшити за допомогою Руки Жаху! Наприклад, кидати Ящики з інструментами в Печеру Винахідників або Золото, що лежить де попало, у Скарбницю, чи «мотивувати» істот працювати швидше ляпасом! Спробуй!"}

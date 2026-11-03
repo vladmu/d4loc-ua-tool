@@ -1,0 +1,13 @@
+{"name": "dlg_western05showdown_outrovideo_11", "set": "Тим часом Талія мандрувала сама. Наспівуючи пісню зі словами на кшталт «Самотня ковбойка…», вона поїхала назустріч заходу сонця."}
+{"name": "tut_popup_main01begin_controlls_3", "set": "{key:Secondary} – Дай вибраному юніту команду бігти або атакувати."}
+{"name": "ui_event_beer_not_reachable", "set": "{notification:TargetName} не може дістатися до Пивоварні!"}
+{"name": "ui_quickslot_add_unit", "set": "{key:Modifier_A1}+<color=#ADD8E6>0-9</color>: Додай зібраного або вибраного юніта до групи гарячих клавіш."}
+{"name": "unit_infernal_flav", "set": "«Мені потрібна нафта для бензину. Вибухова, як гас.\r\n\r\nЗ великою кількістю октану й без свинцю. Паливо, як бензин!»"}
+{"name": "name_vampirequeen_v1", "set": "Ламія ван Слюрп"}
+{"name": "name_vampirequeen_v2", "set": "Гільдеґарда ван Слюрп"}
+{"name": "name_vampirequeen_v3", "set": "Елізабета ван Слюрп"}
+{"name": "name_vampirequeen_v4", "set": "Топаз ван Слюрп"}
+{"name": "name_vampirequeen_v17", "set": "Сейран фон дер Блодтекорт"}
+{"name": "ui_dlc_switch", "set": "DLC"}
+{"name": "ui_setting_antialiasing_fxaa", "set": "FXAA"}
+{"name": "ui_setting_antialiasing_smaa", "set": "SMAA"}

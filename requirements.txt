@@ -1,0 +1,7 @@
+# Application dependencies (the installer and the translator mode). The heavy speech synthesis dependencies are not included here.
+UnityPy>=1.25,<2
+numpy>=2.0
+scipy>=1.14
+soundfile>=0.12
+av>=19
+sv-ttk>=2.6
